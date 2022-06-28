@@ -14,13 +14,14 @@ title: Summer 2020 DREU Project Site
 
 <style> 
     img {
-      float: left;
+      float: right;
       margin: 15px;
+      max-height: 50%;
+      width: auto;
     }
  
     p {
       text-align: justify;
-      font-size: 25px;
     }
 </style>
 
