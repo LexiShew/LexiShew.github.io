@@ -8,17 +8,42 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-Hello!
 
-My name is Alexandra Shewchuk, but I go by Lexi. I'm a rising junior at Tufts University, which is just outside of Boston, MA. I'm studying computer science and biology, and I plan to pursue a career in computational biology. This summer, I've been lucky enough to be paired with Dr. Lydia Kavraki's bioinformatics lab in Houston, TX, where I'll be assisting a research project.
 
-Since starting at Tufts, I've listened in on two bioinformatics labs and become a TA for CS40: Machine Structure and Assembly Language Programming; these experiences have affirmed my interest in research and graduate school, so I'm thrilled to be a part of Dr. Kavraki's lab this summer.
 
-Outside of research and school, I've joined the Tufts ski team, I've been exploring the Greater Boston Area, and I love to hike, read, and spend time outdoors. More recently, I've gotten into baking bread and pastries, which is likely because they're a little scientific and require some experimentation -- plus they taste great.
 
-I'm excited to explore Houston and meet the students and faculty at Rice here this summer!
+<style> 
+    img {
+      float: left;
+      margin: 15px;
+    }
+ 
+    p {
+      text-align: justify;
+      font-size: 25px;
+    }
+</style>
 
-![hiking-photo](https://LexiShew.github.io/images/hiking.jpg)
+<div class="square">
+    <div>
+      <img src=
+"https://LexiShew.github.io/images/hiking.jpg"
+        alt="hiking">
+</div>
+     
+<p>
+    Hello!
+    
+    My name is Alexandra Shewchuk, but I go by Lexi. I'm a rising junior at Tufts University, which is just outside of Boston, MA. I'm studying computer science and biology, and I plan to pursue a career in computational biology. This summer, I've been lucky enough to be paired with Dr. Lydia Kavraki's bioinformatics lab in Houston, TX, where I'll be assisting a research project.
+
+    Since starting at Tufts, I've listened in on two bioinformatics labs and become a TA for CS40: Machine Structure and Assembly Language Programming; these experiences have affirmed my interest in research and graduate school, so I'm thrilled to be a part of Dr. Kavraki's lab this summer.
+
+    Outside of research and school, I've joined the Tufts ski team, I've been exploring the Greater Boston Area, and I love to hike, read, and spend time outdoors. More recently, I've gotten into baking bread and pastries, which is likely because they're a little scientific and require some experimentation -- plus they taste great.
+
+    I'm excited to explore Houston and meet the students and faculty at Rice here this summer!
+</p>
+ 
+</div>
 
 
 ## About My Mentor
