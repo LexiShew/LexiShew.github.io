@@ -13,6 +13,13 @@ title: Summer 2020 DREU Project Site
 
 
 <style> 
+    .columns { 
+        display: flex; 
+        width: 100%;
+    }
+
+    .columns div { flex-grow: 1; }
+
     img {
       float: right;
       margin: 15px;
@@ -25,12 +32,10 @@ title: Summer 2020 DREU Project Site
     }
 </style>
 
-<div class="square">
+<div class="columns">
     <div>
-      <img src=
-"https://LexiShew.github.io/images/hiking.jpg"
-        alt="hiking">
-</div>
+      <img src="https://LexiShew.github.io/images/hiking.jpg" alt="hiking">
+    </div>
      
 <p>
     Hello!
