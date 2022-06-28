@@ -13,18 +13,11 @@ title: Summer 2020 DREU Project Site
 
 
 <style> 
-    .columns { 
-        display: flex; 
-        width: 100%;
-    }
-
-    .columns div { flex-grow: 1; }
-
     img {
       float: right;
       margin: 15px;
-      max-height: 50%;
-      width: auto;
+      max-width: 75%;
+      height: auto;
     }
  
     p {
@@ -32,10 +25,9 @@ title: Summer 2020 DREU Project Site
     }
 </style>
 
-<div class="columns">
-    <div>
-      <img src="https://LexiShew.github.io/images/hiking.jpg" alt="hiking">
-    </div>
+<div>
+    <img src="https://LexiShew.github.io/images/hiking.jpg" alt="hiking" align=right>
+</div>
      
 <p>
     Hello!
@@ -48,9 +40,6 @@ title: Summer 2020 DREU Project Site
 
     I'm excited to explore Houston and meet the students and faculty at Rice here this summer!
 </p>
- 
-</div>
-
 
 ## About My Mentor
 
