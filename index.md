@@ -11,11 +11,11 @@ title: Summer 2020 DREU Project Site
     }
 
     #hiking-photo {
-      max-width: 50%;
+      max-width: 45%;
     }
 
     #dr-kavraki-photo {
-      max-width: 35%;
+      max-width: 30%;
     }
 </style>
 
