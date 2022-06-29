@@ -24,7 +24,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-<img src="https://LexiShew.github.io/images/hiking.jpg" alt="hiking">
+<img id="hiking-photo" src="https://LexiShew.github.io/images/hiking.jpg" alt="hiking">
 
 <p>
     Hello!<br><br>    
@@ -37,7 +37,7 @@ title: Summer 2020 DREU Project Site
 
 ## About My Mentor
 
-<img src="https://LexiShew.github.io/images/dr-kavraki.jpg" alt="Dr. Lydia Kavraki">
+<img id="dr-kavraki-photo" src="https://LexiShew.github.io/images/dr-kavraki.jpg" alt="Dr. Lydia Kavraki">
 
 <p>
     Lydia E. Kavraki is the Noah Harding Professor of Computer Science, professor of Bioengineering, professor of Electrical and Computer Engineering, and professor of Mechanical Engineering at Rice University. She is the Director of the Ken Kennedy Institute at Rice.
