@@ -36,7 +36,6 @@ title: Summer 2020 DREU Project Site
       max-width: 25%;
       height: auto;
     }
-
 </style>
 
 <img src="https://LexiShew.github.io/images/dr-kavraki.jpg" alt="Dr. Lydia Kavraki">
