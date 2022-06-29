@@ -16,13 +16,10 @@ title: Summer 2020 DREU Project Site
     img {
       float: right;
       margin: 15px;
-      max-width: 75%;
+      max-width: 50%;
       height: auto;
     }
- 
-    p {
-      text-align: justify;
-    }
+
 </style>
 
 <div>
