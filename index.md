@@ -3,19 +3,26 @@ layout: default
 title: Summer 2020 DREU Project Site
 ---
 
+<style> 
+    img {
+        float: right;
+        margin: 15px;
+        height: auto;
+    }
+
+    #hiking-photo {
+      max-width: 50%;
+    }
+
+    #dr-kavraki-photo {
+      max-width: 35%;
+    }
+</style>
+
 * TOC
 {:toc}
 
 ## About Me
-
-<style> 
-    img {
-      float: right;
-      margin: 15px;
-      max-width: 50%;
-      height: auto;
-    }
-</style>
 
 <img src="https://LexiShew.github.io/images/hiking.jpg" alt="hiking">
 
@@ -27,16 +34,8 @@ title: Summer 2020 DREU Project Site
     I'm excited to explore Houston and meet the students and faculty at Rice here this summer!
 </p>
 
-## About My Mentor
 
-<style> 
-    img {
-      float: right;
-      margin: 15px;
-      max-width: 25%;
-      height: auto;
-    }
-</style>
+## About My Mentor
 
 <img src="https://LexiShew.github.io/images/dr-kavraki.jpg" alt="Dr. Lydia Kavraki">
 
@@ -56,6 +55,7 @@ title: Summer 2020 DREU Project Site
 </p>
 
 [My Final Report](files/finalreport.pdf)
+
 
 ## My Blog
 
